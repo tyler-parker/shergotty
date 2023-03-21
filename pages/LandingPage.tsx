@@ -16,9 +16,9 @@ const LandingPage = () => {
         />
       </div>
       <div className="absolute inset-0 flex flex-col justify-center items-center">
-        <h1 className="text-5xl text-white font-bold">Welcome to My Musician Website</h1>
-        <p className="text-2xl text-white mt-5">Explore my music and upcoming shows.</p>
-        <button className="bg-white text-black px-5 py-3 rounded-md mt-5">Get Started</button>
+        <h1 className="text-5xl text-white font-bold">shergotty</h1>
+        <p className="text-2xl text-white mt-5">impulse out on 03.30</p>
+        <button className="bg-white text-black px-5 py-3 rounded-md mt-5">FUCK</button>
       </div>
     </div>
   );
